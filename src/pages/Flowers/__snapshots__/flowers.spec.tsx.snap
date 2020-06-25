@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Flowers Page Snapshot Test renders correctly 1`] = `
+<div
+  className="sc-fzplWN bhKsb"
+>
+  <div
+    className="sc-fzpans ioqtek"
+  />
+</div>
+`;

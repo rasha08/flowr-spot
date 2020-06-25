@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Page Snapshot Test renders correctly 1`] = `
+Array [
+  <div
+    className="sc-AxjAm bfurdP"
+  >
+    <h1
+      className="sc-AxirZ cgyyWi"
+    >
+      Discover flowers around you
+    </h1>
+    <h3
+      className="sc-AxiKw hBzIKO"
+    >
+      Explore between more than 8.427 sightings
+    </h3>
+    <div
+      className="sc-AxhCb drcLDH"
+    >
+      <input
+        className="sc-AxhUy NsSIL"
+        placeholder="Looking for something specific?"
+      />
+      <img
+        alt="search"
+        className="sc-AxgMl hrcCaT"
+        src="/static/images/pl-icon-search.png"
+      />
+    </div>
+  </div>,
+  <div
+    className="sc-fzqNJr bEcBDx"
+  >
+    <div
+      className="sc-fzqBZW fwPWUa"
+    />
+  </div>,
+]
+`;
